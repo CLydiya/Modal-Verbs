@@ -1,8 +1,6 @@
 # Modal-Verbs
-<DOCTYPE! html>
 <html>
  <head>
-  <title>Modal Verb</title>
  </head>
  <body>
   <h1>introduction</h1>
